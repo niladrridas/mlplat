@@ -1,0 +1,10 @@
+name: my-ml-ds-env
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - tensorflow
+  - keras
+  ...

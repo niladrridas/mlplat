@@ -1,0 +1,13 @@
+"id","age","income","occupation","education_level"
+1,25,50000,"Software Engineer","Bachelor's"
+2,31,70000,"Marketing Manager","Master's"
+3,42,90000,"Doctor","Ph.D."
+4,28,60000,"Teacher","Bachelor's"
+5,35,80000,"Lawyer","Juris Doctor"
+...
+49995,29,55000,"Nurse","Associate's"
+49996,45,100000,"CEO","MBA"
+49997,38,65000,"Engineer","Bachelor's"
+49998,22,40000,"Student","Some College"
+49999,50,120000,"Professor","Ph.D."
+50000,40,85000,"Consultant","Master's"

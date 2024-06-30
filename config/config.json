@@ -1,0 +1,8 @@
+{
+    " NotebookApp": {
+      "allow_origin": "*",
+      "allow_credentials": true,
+      "allow_headers": ["Content-Type", "Authorization"],
+      "expose_headers": ["Location"]
+    }
+  }
